@@ -1,7 +1,12 @@
 # AI Image Generator 🖼️
 
 This web application allows users to generate images from text prompts and share them on the website. Each image is displayed with the author's name and the prompt used to generate it.
-
+## Technologies Used 💻
+- **Frontend**: React.js ([Live Demo](https://aiimagegenrator.netlify.app/))
+- **Backend**: Node.js, Express.js ([Live Demo](https://ai-image-generator-20nr.onrender.com/api/post))
+- **Styling**: Styled Components
+- **Database**: MongoDB
+- **APIs**: OpenAI, Cloudinary
 ## Features 🚀
 
 - **Generate Images**: Users can create images based on text prompts using AI.
@@ -10,13 +15,6 @@ This web application allows users to generate images from text prompts and share
 - **Search Functionality**: Users can search for specific prompts or authors to find relevant images.
 - **Responsive Design**: The application is designed to work seamlessly across various devices.
   
-## Technologies Used 💻
-
-- **Frontend**: React.js
-- **Styling**: Styled Components
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **APIs**: OpenAI, Cloudinary
 ## 📋 Setup Instructions
 1. **Clone the repository:** `git clone https://github.com/suyashpurwar1/AI_Image_Generator`
 2. **Navigate to the project directory:** `cd AI_Image_Generator`
